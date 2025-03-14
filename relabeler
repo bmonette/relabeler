@@ -201,7 +201,7 @@ def toggle_extension_entry():
         entry_extension.config(state='disabled') # Disable the extension entry.
 
 def show_about():
-    messagebox.showinfo("About Relabeler", "Relabeler Version 1.0\n\nDeveloped by [Your Name]\n\nA batch file renaming tool with preview, undo, drag-and-drop, and more!")
+    messagebox.showinfo("About Relabeler", "Relabeler Version 1.0\n\nDeveloped by Benoit Monette\n\nA batch file renaming tool with preview, undo, drag-and-drop, and more!")
 
 # Create the main window.
 mainwindow = TkinterDnD.Tk()
