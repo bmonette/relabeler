@@ -1,2 +1,8 @@
 *.py linguist-language=Python
 *.md linguist-documentation
+
+# Ensure Python files are recognized as Python
+*.py linguist-language=Python
+
+# Exclude markdown files from stats
+*.md linguist-documentation
