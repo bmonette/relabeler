@@ -14,9 +14,9 @@ Whether you're an individual or a business, Relabeler makes it quick and easy to
 - **Change File Extensions** in bulk  
 - **Drag-and-Drop Folder Selection**  
 - **Progress Bar** and **Real-Time Status Updates**  
-- Simple, clean, and user-friendly interface  
-- Lightweight and fully offline desktop application  
-- Built with **Python** and **Tkinter**  
+- **Simple, clean, and user-friendly interface**  
+- **Lightweight and fully offline desktop application**  
+- **Built with Python and Tkinter**
 
 ---
 
