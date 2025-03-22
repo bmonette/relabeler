@@ -68,6 +68,7 @@ To obtain a **licensed copy** of Relabeler for personal or commercial use, pleas
 ## ⚠️ Licensing
 
 Relabeler is **proprietary software**.  
+
 You are **not permitted** to:
 - Copy, modify, or redistribute any part of the source code  
 - Use this project in your own applications or projects  
@@ -75,13 +76,14 @@ You are **not permitted** to:
 
 You are permitted to **view the source code** for **educational and portfolio demonstration purposes only**.
 
-**See Full License**
+**See Full License File**
 
 ---
 
 ## Commercial Use
 
-For personal or commercial use of Relabeler 1.0, you must purchase a valid license.  
+For personal or commercial use of Relabeler 1.0, you must purchase a valid license. 
+
 This grants you the right to:
 - Install and use Relabeler on your system  
 - Access updates and support (as defined by license terms)
