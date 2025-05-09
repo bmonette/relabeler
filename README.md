@@ -94,7 +94,7 @@ This grants you the right to:
 
 ## About the Developer
 
-My name is **Benoit Monette**, I'm a Python developer focused on building practical tools and automation solutions.  
+My name is **Benoit Monette**, I'm a Full Stack Developer focused on building practical tools, automation solutions and web applications.  
 Check out more of my work: https://github.com/bmonette/
 
 ---
